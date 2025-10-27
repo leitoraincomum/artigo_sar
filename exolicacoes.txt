@@ -1,0 +1,27 @@
+🧾 Texto Explicativo 1 – Distribuição das Obras por Situação
+
+O primeiro gráfico apresenta a distribuição das obras de acordo com a situação registrada na base de dados analisada. Esta visualização permite identificar o estágio atual dos projetos, como obras concluídas, em execução, atrasadas, paralisadas ou canceladas. A análise desse indicador é fundamental para compreender o desempenho da gestão pública na execução de obras e na aplicação dos recursos destinados.
+
+A predominância de obras em execução ou concluídas pode refletir um cenário de eficiência administrativa e boa utilização do orçamento. Por outro lado, um alto percentual de obras atrasadas ou paralisadas sugere possíveis problemas relacionados ao planejamento, contratação, fiscalização ou gestão dos recursos públicos. Nesse sentido, o gráfico desempenha papel importante no suporte à tomada de decisão, pois permite aos gestores identificar gargalos e priorizar ações corretivas, seja no reforço da fiscalização, na reorganização orçamentária ou na revisão dos contratos com fornecedores.
+
+🧾 Texto Explicativo 2 – Investimento Total por Âmbito
+
+O segundo gráfico apresenta o volume total de investimentos realizados de acordo com o âmbito da obra, possibilitando visualizar o montante financeiro aplicado pelos diferentes níveis de governo (municipal, estadual e, quando aplicável, federal). Essa análise é relevante para identificar o grau de centralização ou descentralização dos investimentos públicos e compreender a participação de cada esfera governamental na execução de obras.
+
+Ao analisar os dados, é possível identificar qual âmbito tem assumido maior responsabilidade financeira nas obras públicas. Uma concentração maior de investimentos no âmbito municipal, por exemplo, pode indicar maior autonomia das administrações locais e descentralização de políticas públicas. Já o predomínio de investimentos estaduais aponta para maior coordenação centralizada, possivelmente alinhada a programas ou planos estruturantes de governo. Esse tipo de análise auxilia na formulação de políticas públicas, na distribuição de recursos e no planejamento estratégico das esferas governamentais, reforçando o papel do tratamento de dados como ferramenta de suporte para decisões mais assertivas.
+
+🧾 Texto Explicativo 3 – Evolução do Número de Contratos por Ano
+
+O terceiro gráfico demonstra a evolução do número de contratos de obras ao longo dos anos, permitindo observar tendências temporais na política de execução de obras públicas. A análise dessa série histórica é importante para identificar padrões que podem estar relacionados a fatores políticos, econômicos ou sociais.
+
+Um aumento significativo no número de contratos pode indicar expansão de investimentos, criação de novos programas governamentais ou até mesmo momentos pré-eleitorais em que a atividade pública costuma ser intensificada. Em contrapartida, períodos de queda podem estar associados a restrições orçamentárias, crise econômica, mudanças legislativas ou reformulação de políticas públicas.
+
+A partir desse gráfico, os gestores podem realizar análises preditivas, planejar investimentos futuros e elaborar estratégias mais eficientes de alocação de recursos, demonstrando como a utilização inteligente dos dados contribui diretamente para decisões mais embasadas e conectadas às necessidades da população.
+
+🧾 Texto Explicativo 4 – Top 10 Municípios por Volume de Investimento
+
+O quarto gráfico revela os dez municípios que receberam maior volume de investimentos em obras, permitindo identificar o grau de concentração de recursos e possíveis disparidades regionais. Essa análise é relevante para compreender a distribuição dos investimentos e verificar se os recursos estão sendo aplicados de forma equitativa entre os municípios.
+
+Ao observar os municípios que recebem mais investimentos, é possível analisar se essa alocação está relacionada ao tamanho populacional, ao Índice de Desenvolvimento Humano (IDH), à infraestrutura existente, à relevância regional ou a prioridades estratégicas da administração pública. Por outro lado, a ausência de determinados municípios entre os que mais recebem investimentos pode indicar desigualdade na distribuição dos recursos ou falta de projetos apresentados por essas localidades.
+
+Este gráfico reforça a importância do tratamento e da análise dos dados como base para o planejamento de políticas públicas mais justas e eficientes. A visualização dos investimentos municipais permite que gestores revisem critérios de distribuição de verbas e identifiquem regiões que necessitam de maior atenção, promovendo equidade e transparência na gestão dos recursos públicos.
